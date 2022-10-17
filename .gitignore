@@ -1,2 +1,4 @@
 .DS_Store
-node_moudules/
+*/node_modules/
+*/dist/
+npm-debug.log
