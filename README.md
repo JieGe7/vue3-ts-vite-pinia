@@ -1,4 +1,4 @@
-# vue3-ts-vite-pinia
+# vue3-ts-vite-pinia-three
 这是个个人练习项目
 #  安装依赖
 yarn

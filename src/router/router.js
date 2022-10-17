@@ -1,5 +1,5 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
-const HelloWorld = () => import('@/components/HelloWorld.vue');
+const threeJS = () => import('@/page/threeJS.vue');
 const zyj = () => import('@/components/zyj.vue')
 const routes = [
     {
@@ -7,8 +7,8 @@ const routes = [
         component: zyj
     },
     {
-        path: '/home',
-        component: HelloWorld,
+        path: '/threeJS',
+        component: threeJS,
     },
 ];
 const router = createRouter({

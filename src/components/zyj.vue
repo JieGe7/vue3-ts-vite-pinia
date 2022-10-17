@@ -1,11 +1,4 @@
 <script setup>
-// import zyjVue from '';
-
-defineProps({
-  msg: String
-})
-
-// const count = ref(0)
 </script>
 
 <template>
@@ -13,7 +6,7 @@ defineProps({
 </template>
 
 <style scoped>
-a {
+h1 {
   color: #42b983;
 }
 </style>
